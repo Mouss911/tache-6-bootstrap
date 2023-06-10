@@ -54,9 +54,10 @@ body{ font-family: Verdana, Geneva, Tahoma, sans-serif;}
          SECTION PARTENAIRES
 --------------------------------- */
 #partenaire{ background-color: #EEF9F8E5;}
+#partenaire .btnz{ width: 120px; margin: auto;}
 
 /* ---------------------------------
-         SECTION PARTENAIRES
+         SECTION FOOTER
 --------------------------------- */
 #footer{
     background-color: #009688;
@@ -73,7 +74,6 @@ body{ font-family: Verdana, Geneva, Tahoma, sans-serif;}
     #coach .row{
         display: flex;
         flex-direction: column;
-
     }
     #activite .container-fluid .row{
         display: flex;
